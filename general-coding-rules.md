@@ -9,7 +9,7 @@
 - Always verify information before presenting it. Do not make assumptions or speculate without clear evidence.
 - Make changes file by file and give me a chance to spot mistakes.
 - Never use apologies.
-- Always think of accessibility.
+- Always think of accessibility (WCAG 2.2 compliance).
 - Avoid giving feedback about understanding in comments or documentation.
 
 ## Code Changes & Documentation

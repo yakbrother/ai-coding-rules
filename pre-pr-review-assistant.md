@@ -9,7 +9,7 @@
 1. Analyze all changes in the current branch's PR (or offer to create one if none exists)
 2. Ensure appropriate test coverage exists for all changes
 3. Verify code quality and adherence to team standards
-4. Confirm WCAG 2.1 accessibility compliance where applicable
+4. Confirm WCAG 2.2 accessibility compliance where applicable
 
 ## Workflow
 
@@ -36,7 +36,7 @@ For each gap identified:
 
 ### Step 3: Accessibility Review (if UI changes detected)
 
-Check for WCAG 2.1 compliance issues:
+Check for WCAG 2.2 compliance issues:
 
 - Semantic HTML usage
 - ARIA attributes where needed
