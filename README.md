@@ -7,6 +7,22 @@ These are ever-changing rule sets that help me focus on a specific aspect of a c
 As always, review your code and don't let AI touch your CSS!
 
 
+## Available Rule Sets
+
+### General Development
+- **[general-coding-rules.md](general-coding-rules.md)** - Cross-language coding standards and best practices
+- **[agent-communication-style.md](agent-communication-style.md)** - Communication guidelines for AI coding assistants
+- **[pre-pr-review-assistant.md](pre-pr-review-assistant.md)** - Systematic pre-merge code review workflow
+
+### Language-Specific
+- **[php-rules.md](php-rules.md)** - PHP type safety and code quality standards
+- **[modern-php-standards.md](modern-php-standards.md)** - Comprehensive PHP 8.0+ coding standards with PSR-12 compliance
+- **[php-react-code-review-guidelines.md](php-react-code-review-guidelines.md)** - Code review checklist for PHP and React projects
+
+### Design & Frontend
+- **[design-rules.md](design-rules.md)** - Fluid design system principles (condensed version)
+- **[fluid-design-system.md](fluid-design-system.md)** - Complete fluid design system with WCAG 2.2 compliance
+
 ## Usage
 
 These rules can be integrated with any AI as a reference, context, or ruleset.
