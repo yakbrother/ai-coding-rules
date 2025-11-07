@@ -1,24 +1,15 @@
-# AI Coding Rules
+# AI Coding Rulesets
 
-A curated collection of rules and prompts for AI-assisted coding across different languages, frameworks, and specific coding tasks.
+After nearly a year of fooling around with AI, I've started documenting more and more what works for me. It's far from the hype that most media gives it, but it's a damn good tool for a few things.
 
-## About
+These are ever-changing rule sets that help me focus on a specific aspect of a coding project. They're best used for short runs with limited memory storage, and I find that they work the best when I start a new conversation for every test or feature.
 
-This repository contains structured rules and prompts designed to help AI coding assistants provide better, more consistent code suggestions while maintaining quality standards and best practices.
+As always, review your code and don't let AI touch your CSS!
 
-## Structure
-
-- Each rule set is organized by language, framework, or specific coding task
-- Rules follow a consistent format for easy integration with AI coding tools
-- Includes both general coding principles and language-specific guidelines
 
 ## Usage
 
-These rules can be integrated with various AI coding assistants like:
-- Cursor
-- GitHub Copilot
-- Warp AI
-- Other AI development tools
+These rules can be integrated with any AI as a reference, context, or ruleset.
 
 ## Contributing
 
