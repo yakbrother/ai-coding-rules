@@ -6,6 +6,31 @@ These are ever-changing rule sets that help me focus on a specific aspect of a c
 
 As always, review your code and don't let AI touch your CSS!
 
+## 🤝 This is a Collaborative Project
+
+**Your contributions make this better for everyone.** This repository thrives on community input from developers with diverse experiences and perspectives.
+
+### How to Contribute
+
+1. **Fork this repository** - Create your own copy to work with
+2. **Add or improve rule sets** - Share what works for you:
+   - New language-specific standards
+   - Framework-specific guidelines
+   - Domain-specific best practices (security, performance, accessibility)
+   - Workflow improvements
+3. **Submit a pull request** - All PRs are reviewed for quality and consistency
+4. **Discuss ideas** - Open issues to propose major changes or discuss approaches
+
+### What We're Looking For
+
+- **Tested patterns** that improve AI-assisted development
+- **Clear, actionable rules** that AI assistants can follow
+- **Language/framework expertise** from real-world projects
+- **Accessibility and security** improvements
+- **Documentation improvements** and better examples
+
+Every contribution helps developers worldwide write better code with AI assistance.
+
 
 ## Available Rule Sets
 
@@ -27,9 +52,9 @@ As always, review your code and don't let AI touch your CSS!
 
 These rules can be integrated with any AI as a reference, context, or ruleset.
 
-## Contributing
+## Contributing Guidelines
 
-Contributions are welcome! Feel free to submit pull requests with additional rule sets or improvements to existing ones.
+See the [collaboration section](#-this-is-a-collaborative-project) above for how to contribute. We review all pull requests for quality, consistency, and practical value.
 
 ## License
 
